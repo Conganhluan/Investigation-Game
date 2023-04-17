@@ -117,7 +117,8 @@ if %id_person%==879155 (
 		echo Mà đổi lại thì hình như đang có một người khác đang sống trong đó>>"Khẩu cung nhân chứng\Nguyễn Kim Cương.txt"
 		attrib +r "Khẩu cung nhân chứng\Nguyễn Kim Cương.txt"
 		) else (
-		echo Ủa tui có liên quan gì đến vụ án này hả? 
+		echo Ủa tui có liên quan gì đến vụ án này hả?
+		)
 	goto END_INTERROGATE
 	)
 if %id_person%==426431 (
