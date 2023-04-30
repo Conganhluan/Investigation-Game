@@ -15,9 +15,9 @@ Every interaction in this game is done by Batch file (these files are hidden and
 To know more about Batch commands: <https://www.tutorialspoint.com/batch_script/batch_script_commands.htm>  
   
 ## Cách cài đặt và sử dụng/ How to install and use:
-Tất cả những việc bạn cần làm chỉ là tạo bản sao của repository này về máy và chạy tệp "Chào mừng.exe" để bắt đầu chơi.  
+Tất cả những việc bạn cần làm chỉ là tải file .zip về máy, giải nén và chạy tệp "Chào mừng.exe" để bắt đầu chơi.  
   
-Everything you need to do is to clone this repository to your computer and run the "Welcome.exe" to play.  
+Everything you need to do is to download .zip file, extract it and run the "Welcome.exe" to play.  
   
 ## Nguồn cảm hứng/ Motivation:
 Dựa trên trò chơi **The SQL Murder Mystery** để hỗ trợ mọi người hiểu rõ hơn về SQL, tôi đã tạo nên trò chơi này để tạo cho bản thân một thử thách trong việc học các lệnh Batch, bên cạnh đó cũng khai thác những chức năng riêng biệt của các câu lệnh để tạo nên những tương tác thú vị cho người dùng khi chơi.  
