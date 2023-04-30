@@ -18,7 +18,7 @@ pause
 
 attrib -s -h "Mai Khôi.exe"
 
-del "Chào mừng.exe"
+attrib +s +h "Chào mừng.exe"
 
 exit
 

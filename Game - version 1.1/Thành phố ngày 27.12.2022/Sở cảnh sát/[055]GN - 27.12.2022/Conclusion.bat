@@ -20,8 +20,8 @@ echo Hung thủ: Trần Huy Hoàng>>"Thông tin vụ án.txt"
 attrib +r "Thông tin vụ án.txt"
 
 attrib -s -h "..\..\..\Ngày mới.exe"
-del "Thẩm vấn.exe"
-del "Tòa án kết luận.exe"
-del "..\[052]MT - 25.12.2022"
+attrib +s +h "Thẩm vấn.exe"
+attrib +s +h "Tòa án kết luận.exe"
+attrib +s +h "..\[052]MT - 25.12.2022"
 
 exit

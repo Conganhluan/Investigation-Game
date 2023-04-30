@@ -28,7 +28,7 @@ for /F %%i in (cache.txt) do (
 		pause
 		if not exist "..\..\..\Sở cảnh sát\[055]GN - 27.12.2022\Khẩu cung nhân chứng\Nguyễn Kim Cương.txt" (exit)
 		attrib -s -h "Xông vào nhà.exe"
-		del "Gõ cửa.exe"
+		attrib +s +h "Gõ cửa.exe"
 		exit
 	)	
 )

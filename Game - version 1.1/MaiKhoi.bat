@@ -21,6 +21,6 @@ echo Bạn không nhớ tôi đang nói về vụ án nào à? *cười*>"Mai Kh
 echo Cái vụ mất tích mà bố nạn nhân báo án vào hai hôm trước đấy, hình như cái xác được tìm thấy hôm nay rồi!>>"Mai Khôi.txt"
 attrib +r "Mai Khôi.txt"
 
-del "Mai Khôi.exe"
+attrib +s +h "Mai Khôi.exe"
 
 exit
