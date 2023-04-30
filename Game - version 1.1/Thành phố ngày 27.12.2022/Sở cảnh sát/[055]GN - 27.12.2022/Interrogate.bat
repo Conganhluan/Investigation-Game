@@ -53,7 +53,7 @@ if %id_person%==295119 (
 		) else (
 		echo.
 		echo Không liên lạc được với người cần thẩm vấn
-	)
+		)
 	goto END_INTERROGATE
 	)
 if %id_person%==943160 (
