@@ -26,14 +26,6 @@ Liên kết đến **The SQL Murder Mystery** tại đây: <https://mystery.knig
 Based on the game **The SQL Murder Mystery** encouraging people to study SQL, I created this game to give me a challenge of studying Batch commands; besides, I also want to make use of these commands to create interesting interactions for the player.  
 Link to **The SQL Murder Mystery**: <https://mystery.knightlab.com/>  
   
-## Thông tin liên lạc/ My information:
-Nếu có bất kì điều gì thắc mắc khi chơi, hoặc những phát hiện lỗi hay những ý tưởng cải tiến để giúp trò chơi hay hơn, xin vui lòng liên hệ tôi thông qua: 
-  
-If there are any questions while playing, finding out a bug or having an idea to make the game better, please contact me at:  
-  
-*Gmail:* conganhluan@gmail.com  
-*Phone/ Zalo*: +84 833040203  
-**Nguyễn Công Anh Luân**  
-  
+## Thông tin thêm/ More information:  
 P.s: Mỗi lỗi khi chơi được phát hiện lần đầu tiên sẽ được trả thưởng *10.000 VNĐ/ 1 lỗi*. Mong bạn có thể hết lòng giúp tôi để khiến trò chơi này hoàn thiện nhất có thể!  
 P.s: Every bug found for the first time will be rewarded *10.000 VNĐ/ 1 bug*. I wish you will help me to make the best version of this game!
